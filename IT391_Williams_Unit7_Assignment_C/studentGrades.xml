@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<studentGrades>
+  <grade number ="1">100</grade>
+  <grade number ="2">99</grade>
+  <grade number ="3">98</grade>
+  <grade number ="4">97</grade>
+  <grade number ="5">96</grade>
+  <grade number ="6">95</grade>
+  <grade number ="7">94</grade>
+  <grade number ="8">93</grade>
+  <grade number ="9">92</grade>
+  <grade number ="10">91</grade>
+  <grade number ="11">70</grade>
+  <grade number ="12">75</grade>
+  <grade number ="13">80</grade>
+  <grade number ="14">85</grade>
+  <grade number ="15">88</grade>
+  <grade number ="16">78</grade>
+  <grade number ="17">50</grade>
+  <grade number ="18">55</grade>
+  <grade number ="19">60</grade>
+  <grade number ="20">65</grade>
+  <grade number ="21">57</grade>
+  <grade number ="22">67</grade>
+  <grade number ="23">77</grade>
+  <grade number ="24">87</grade>
+</studentGrades>
