@@ -1,0 +1,6 @@
+C:\Users\Celena\source\repos\IT391_Williams_Unit2_Assignment3\IT391_Williams_Unit2_Assignment3\bin\Debug\IT391_Williams_Unit2_Assignment3.exe.config
+C:\Users\Celena\source\repos\IT391_Williams_Unit2_Assignment3\IT391_Williams_Unit2_Assignment3\bin\Debug\IT391_Williams_Unit2_Assignment3.exe
+C:\Users\Celena\source\repos\IT391_Williams_Unit2_Assignment3\IT391_Williams_Unit2_Assignment3\bin\Debug\IT391_Williams_Unit2_Assignment3.pdb
+C:\Users\Celena\source\repos\IT391_Williams_Unit2_Assignment3\IT391_Williams_Unit2_Assignment3\obj\Debug\IT391_Williams_Unit2_Assignment3.csproj.CoreCompileInputs.cache
+C:\Users\Celena\source\repos\IT391_Williams_Unit2_Assignment3\IT391_Williams_Unit2_Assignment3\obj\Debug\IT391_Williams_Unit2_Assignment3.exe
+C:\Users\Celena\source\repos\IT391_Williams_Unit2_Assignment3\IT391_Williams_Unit2_Assignment3\obj\Debug\IT391_Williams_Unit2_Assignment3.pdb
